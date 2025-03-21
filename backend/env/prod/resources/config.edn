@@ -1,0 +1,3 @@
+{:prod true
+ :async? true
+ :port 8080}

@@ -1,0 +1,33 @@
+QA-Report
+
+Date - 23/11/2024
+ISSUES
+
+(Issue no. 1 will be addressed in the video named "1" and likewise.)
+
+
+1. With the ice power when we charge the attack to shoot, the movement animation does not look good.
+
+2. It would be nice if you fix the camera to not allow it to go into the walls and objects.
+
+3. Sometimes the stamina bar stops refilling itself while we are holding the mouse for a charge attack.
+
+4. The electric attack consumes the stamina and stop it from refilling but still the attack won't work quite a few times.
+
+
+MY FEEDBACK
+
+
+The game is fun but I would like to point out at the camera position as it felt way too close to the character so you should try increasing the camera distance to the character.
+Other than that, I would like to suggest that instead of letting the user keep holding the Q and E button for special attacks you can let the user toggle between such attacks. For eg. When the user presses Q, it should be able to aim and attack with the mouse only rather than keep holding the Q button to aim and attack.
+
+You can add character types such as a defensive or attacker type, where the defensive would have some prefixed attack types but with higher health than others and the attack type would be able to use quick dash, likewise other types of characters maybe one more can be with the ice power charge attack where it can 1 shot kill but keep his health lower than other types.
+
+You can even add different game modes like both the team have to protect a big crown and destroy the opponent's team crown.
+
+You can highlight the player with the most kill from both teams in golden color.
+
+
+
+Thanks,
+Best of luck for the future!

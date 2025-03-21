@@ -1,0 +1,19 @@
+{:rules
+  {:indentation
+    {:indents
+      {async [[:inner 0]],
+       m/cond-doto [[:inner 0]],
+       r/with-let [[:inner 0]]}},
+   :functions {:enabled? false},
+   :whitespace
+     {:remove-surrounding? true,
+      :remove-trailing? true,
+      :insert-missing? true},
+   :blank-lines
+     {:max-consecutive 1
+      :padding-lines 1},
+   :namespaces
+     {:indent-size 2,
+      :break-libs? true,
+      :import-break-width 129}}
+ :files {:ignore #{"app.cljs"}}}

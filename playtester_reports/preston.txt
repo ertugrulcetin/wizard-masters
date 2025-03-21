@@ -1,0 +1,61 @@
+https://www.crazygames.com/game/wizard-masters
+Summary:
+Overall a fun experience! I like the game. It was enjoyable trying to be the player with the most kills at the end of the match. It reminds me of a game on Epic I use to play but is no longer available (Spellbreak) https://www.youtube.com/watch?v=t2_tJWahAvE
+
+Direction:
+Currently, I would prioritize things in this order:
+0: Figure out why Ads aren't working, to make sure you are getting paid (if this is a concern for you)
+1. Buffing Wind and Thunder. Every time I've played, I've found them underwhelming and haven't seen a single player using them either.
+2. Buff Mana Potion
+3. Adding a progression system, to keep players interested and lobbies full. Even if its just cosmetic unlocks (hats, music unlock, spell colors), it will keep players coming back.
+4. Adding two more spell elements.
+5. Adding dangerous events in the map to switch things up. Some players might get bored of the same level over and over again, so here is an option instead of creating a new level. When the battle begins, a single random event unfolds: A) Slowly fill the battlefield with water or lava that damages a player over time. B) Zombies spawn, damaging anyone who gets too close. If a zombie kills someone, the opposite team is granted a point C) Players move 1.5 times faster. D) A burning moon slowly descends on the map, instantly killing any players that fly up too high.
+I could see a player trying to grief their teammates by killing themselves with these random events, so perhaps you could penalize a player that does kills themselves like this twice in a row by not allowing them to respawn for one minute (or however you deem fit)
+
+
+Controls:
+Good. Intuitive and Responsive. I like that Q and E (aside from the mouse, Shift, WASD and space) were the only buttons used.
+
+Functioning as things should?:
+Yeah. I was only slightly bummed I couldn't blast the barrels in the middle of the map and make them fly everywhere.
+Some things I would personally change: Don't let left and right clicks consume levitation meter. Instead, just show the cool-down amount on the HUD. And instead of the levitation meter refilling after a certain amount of time, nerf it so that it only refills once landing. This will buff the wind left click as well (see below)
+
+Balance:
+I felt that Fire and Ice were stronger than the other elements. It seemed OP to freeze someone, The Arrows did a satisfying amount of damage when landing, and supernova was also fun to land on multiple people. The electric line of damage was fun, but I rarely got a kill with it, as someone would blast my enemy while I was attacking them. I thought that the air left click ability wasn't strong at all. I couldn't do damage with it and it's utility didn't seem much better than just holding spacebar. I recommend fixing this by increasing the amount of lift it gives you, at least. The health and speed potions were fun. The Mana potion felt useless, as Mana regenerates rapidly enough. I recommend buffing the potion by making it reset cooldowns as well.
+
+Objectives:
+Initially, I was confused what team I was on and who I was supposed to go after. I thought I was on the red team, and yet there was red lettering over blue team members? Did that mean the red team could wear blue? It was slightly confusing, especially since I started out gray. Eventually I figured it out, but I wanted to share this. Maybe Make the teams Blue vs Orange, and keep then keep the red lettering for enemies.
+
+Found Exploits:
+No exploits found.
+
+UI:
+Perfect. Everything was intuitive and easy to navigate. I especially liked the left menu in the main menu. I liked that I could click one of the buttons to pop up a how to info box, and then click the button again to minimize it. It made me say "oooh" out loud. A small but cool thing.
+
+HUD:
+Clear.  I could tell where my heath bar and the enemy's was. I could see clearly when my abilities were on cool-down.
+
+
+
+Graphics:
+The art and animation are great. I thing I think could be helpful is showing a fast projectile for the Supernova so that one has a slight chance of dodging it before it just appears at a place.
+
+Audio:
+There was no music on the Menu screen. While beneficial if one is trying to load up the game in a quiet environment, I thought something was wrong with the browser or a plugin. I had to go into the options menu to make sure the music volume was up. Perhaps ask before the game starts: "Would you like to play this game with audio?" and then add music to the main menu screen. I think it would also be enjoyable if there was music during game-play - albeit much quieter compared to the sound effects.
+
+Level Design
+An enjoyable map for combat. There was one tower with multiple floors and stairs that was tricky to descend as the transition to each floor was narrow. Perhaps add windows one could enter in and out of on each floor.
+
+Performance and Stability
+No noticeable drops in performance.
+
+Multiplayer
+Smooth Matchmaking. It felt nice to just jump right in and not have to design a character or make up a name. If there were bots, I couldn't tell. This added to the desire to replay it.
+
+Bugs and Glitches
+No noticeable bugs or glitches.
+
+
+Monetization
+Clicking the button to unlock a spell via watching an ad, always yielded this out outcome. Not sure if that was intended. But I tried it 5 different times and this always happened. Joining the discord to "unlock a speed boost" seems strange.
+

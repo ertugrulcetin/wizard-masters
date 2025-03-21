@@ -1,0 +1,33 @@
+/out/
+/resources/public/js/compiled/
+/target/
+/*-init.clj
+/*.log
+
+# Leiningen
+/.lein-*
+/.nrepl-port
+
+# Node.js dependencies
+/node_modules/
+
+# shadow-cljs cache, port files
+/.shadow-cljs/
+
+# clj-kondo cache and configs from libs
+/.clj-kondo/*
+
+# clj-kondo config
+!/.clj-kondo/config.edn
+
+# clojure-lsp cache
+/.lsp/.cache
+
+.idea/
+*.iml
+.DS_Store
+projectFilesBackup
+
+*.jar
+*.class
+pom.xml

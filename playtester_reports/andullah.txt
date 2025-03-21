@@ -1,0 +1,165 @@
+ability analysis
+
+
+
+Flame Ability 1
+
+An area of effect ability that is good for short ranged fight but in longer range it's bad
+-The ability is really slow so having crowd control before the ability pairs it well making it a good damage combo
+-In spam fights or fighting agains't multiple enemies the ability is good but in 1v1's it's easily dodgable with the dash
+
+Overall the ability is pretty balanced for the ammount of damage it does and it's range
+but for a main damage/spamable ability it's really tuned, making a cooldown effect/increasing the cast time would be a good addition
+
+Flame Ability 2
+
+An area of effect that does massive damage and is extremely good for a short ranged fight
+-The ability is broken paired with a stun but without a stun a decent player can easily dodge it
+-In teamfights the ability is really good for AOE damage
+
+If going for a teamfight focussed ability i'd reccomend increasing the AOE and decreasing the damage by a little
+
+Ice Ability 1
+
+A long ranged arrow ability which deals damage based on how long it was charged
+
+-The ability is good for sniping but because of the fast paced movement in the game it lacks in providing much more than that
+and is really easy to dodge
+-The ability blocking and consuming player mana for a simple arrow that has 1/10 chance of hitting in an open area is a bit too much
+
+A fun way to balance this ability would be on holding it the player shoots multiple arrows instead of 1 depending on the duration held
+(1-5) arrows going in a cone shape doing slightly more damage would be a really fun addition and make the ability more useful for teamfights too
+
+Ice Ability 2
+
+A 10 Meter cicular stun that causes the player to get stunned for 2 seconds
+
+-Easily the most useful/broken ability in the game considering whether in a teamfight or 1v1's whoever hits the stun first then uses a high damage ability wins
+-Getting hit and one-shot in the game by the same ability every game the player's might get bored of the repetitveness of the meta since in the end it'll be about
+whoever lands the stun first
+
+A fun way balance this ability would be instead of a stun it can be slow or a skill shot so the other player has outplay potential, Another way this can be balanced
+is adding a delay with a cast animation so the players have time to react to it or outplay potential.
+
+Wind Ability 1
+
+Deals a fairly balanced damage while pushing players back and casting at the ground makes the player fly
+
+-Overall the ability is pretty balanced and fun pushing people off the map being the most fun part of it
+
+Wind Ability 2
+
+Summons a tornado doing little damage while rooting the players for a duration
+
+-The ability itself is balanced but paired with other abilties it can be lethal especially in teamfights where players can get nuked by area of effect abilities
+-Instead of it being a root the ability can be a proper tornado the slows the target but also doesn't allow them to leave the abilities premise for a while
+
+Overall the ability is pretty balanced but paired with other abilities it can be a deadly combination
+
+Electric Ability 1
+
+Dealing precise damage at long ranges
+
+-One of the few abilities in the game deal long range damage and unlike the ice ability it is pretty usefull at all the ranges
+-The abilties damage output is really high a player with good aim can easily win a duel with just one abilty while dashing around
+
+The overall ability is really fun but that high of a damage output combined with the range might make it less fun to play against
+
+Electric Ability 2
+
+Lighting strike a with a decent radius that stuns enemies
+
+-Overall a pretty fun and balanced abilty and looking at the cast animation the players can dodge it with skill
+-Unlike other stuns this one is balanced solely because of it being situational and not one of the abilties where you can just dash on people stun them and one-shot them
+
+---
+
+---
+
+## T R A C K  V I E W
+
+[Tracking ](https://www.notion.so/909e277dbd5844f7b36fd6c72d5dd433?pvs=21)
+
+## Tester Remarks
+
+>
+>
+>
+> *Wizard Masters* is an engaging browser-based game with potential to become highly enjoyable for its target audience. However, there are notable areas for improvement in its UI, gameplay variety, and technical performance. Below are my detailed findings and recommendations based on my playtest.
+>
+> ---
+>
+> ### **Strengths**
+>
+> 1. **Fun and Engaging Core Gameplay:**
+>
+>     The game’s mechanics are easy to understand, and the gameplay loop is enjoyable in short bursts.
+>
+> 2. **Performance Across Popular Browsers:**
+>
+>     The game runs smoothly on *Opera GX*, *Google Chrome*, and *Firefox*, ensuring accessibility for the majority of players.
+>
+>
+> ---
+>
+> ### **Areas for Improvement**
+>
+> ### **1. User Interface (UI) Design**
+>
+> The UI feels outdated, reducing the game’s overall appeal.
+>
+> **Suggestions:**
+>
+> - Modernize the design with visually appealing layouts and components.
+> - Replace bland buttons with ones that incorporate hover animations and vibrant color schemes.
+> - Update the font to something more thematic, accompanied by shadows or effects to enhance readability and aesthetics.
+>
+> ### **2. Gameplay Experience**
+>
+> The gameplay experience feels repetitive and occasionally dull.
+>
+> **Suggestions:**
+>
+> - Add *Background Music (BGM)* that complements the magical theme to enrich immersion.
+> - Increase gameplay variety by introducing new **maps** to prevent monotony.
+> - Consider including *bots* to fill empty lobbies, ensuring players can always join a match.
+>
+> ### **3. Visual and Interaction Enhancements**
+>
+> - Ally usernames are too large when viewed up close, obstructing the field of view. Scale them down dynamically based on proximity.
+> - Potion effects occasionally fail to display, leading to confusion. This issue needs addressing to maintain clarity.
+>
+> ---
+>
+> ### **Gameplay Balance**
+>
+> The current meta focuses on stunning targets for extended durations and then eliminating them with high-damage abilities. This creates a lack of counterplay and variety.
+>
+> **Suggestions:**
+>
+> - Reduce the stun duration or introduce animations and delays to balance abilities.
+> - Explore adding defensive or counter abilities to diversify playstyles.
+>
+> ---
+>
+> ### **Bugs Identified**
+>
+> 1. **Alt-Tab Issue:**Switching tabs causes the game to transition to the respawn screen.
+> 2. **Browser Performance Issues:**While the game runs smoothly on popular browsers, it lags on *Microsoft Edge* and *Safari*. Optimizing for these browsers would expand the player base.
+>
+> ---
+>
+> ### **Final Recommendations**
+>
+> *Wizard Masters* has strong foundational gameplay, but addressing the above areas will greatly improve player retention and satisfaction. Prioritize UI updates, gameplay variety, and balance adjustments to keep the game fresh and enjoyable. Additionally, fixing the bugs and optimizing for less-supported browsers will ensure a broader reach and smoother player experience.
+>
+
+---
+
+### L E G E N D
+
+The priority of a bug varies from P4 to P1 with P4 being the least affecting and P1 being the most
+
+[Dead] Means that the application’s part is broken or the application is not working or has crashed
+
+---

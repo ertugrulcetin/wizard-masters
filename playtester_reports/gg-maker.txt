@@ -1,0 +1,60 @@
+Wizard Masters
+
+Thank you for the opportunity to playtest your game. I truly enjoyed my time testing it, and the feedback I’ve gathered is as follows:
+
+Pros:
+I like that this is a quick, easy-to-play PvP game.
+Personally, I enjoy the current mode as it is, where I enter with the motivation to finish the game with the most kills on my team and complete it quickly.
+The UI of the game, including the settings, tutorial information, and spell icons, is very well-designed, giving a professional touch to the game.
+The sound effects are also quite good. Personally, I would prefer a playlist of 5-10 different tracks playing as background music to make the experience more enjoyable, especially for players who play for extended periods. It could help prevent the game from feeling monotonous too quickly.
+I like that you can combine different spells in the game. However, I would love to see many more spells added, allowing players to create unique builds based on their strategy and playstyle. For instance, a player could go for short-range powerful spells with high HP to be tanky or choose long-range sniping skills with extra damage through passive abilities.
+The game reminds me of Spellbreak, an older game that’s no longer available. If you’re not familiar with it, I’d recommend watching some videos on YouTube. It might provide useful inspiration for shaping your game’s mechanics or visual style.
+Currently, the game’s art and sound effects are at a good level. I enjoy the low-poly stylized aesthetic, which runs smoothly and is CPU-optimized for a web game. That said, I’d prefer to see the game on Steam as a PvP title closer to a Battlefield or Overwatch style, where team synergy is key. Allies would need to group up and support each other to win each match.
+I played with a friend in the same lobby, and it’s fun as a premade game. However, in the current mode, there isn’t much synergy between premade teammates. Most of the time, you’re just running around the map, collecting kills. As a result, I didn’t feel much of a difference compared to playing solo.
+
+Cons:
+The spell balance is decent for now, but as mentioned earlier, there’s room to add new spells. I would like to see more diverse crowd-control (CC) effects.
+Currently, the best spell by far is the long-range arrow. It charges quickly for a full cast and allows players to farm kills efficiently. To balance this spell, you could either increase the charge time for the full cast or ensure it only kills with a headshot instead of hitting enemies anywhere on their bodies.
+
+
+The fireball is fun and balanced. Initially, I thought it was the best spell until I discovered the long-range arrow.
+The wind attack feels too weak and doesn’t deal enough damage to be effective. The electric attack deals decent damage but drains the player’s mana too quickly, leaving them exposed.
+The AoE stun and snare spells are quite similar and very useful in gameplay, as they allow for easy kills when combined with a full-cast arrow. However, they could benefit from having more distinct effects.
+The current map design doesn’t appeal to me. While it resembles an Unreal Tournament map, I found myself spending most of the time searching for enemies or figuring out how to reach them by jumping from one platform to another. Personally, I’d prefer a more linear, ground-based mode. This would emphasize cover and environmental elements that block enemy projectiles, akin to the classic Overwatch style.
+The current playstyle leans more towards Unreal Tournament, which isn’t bad, but chasing random enemies becomes monotonous quickly. This might be the weakest aspect of the game right now.
+And maybe the second weakest aspect of the game is the fact that, with the current abilities, there isn’t any long-range crowd control, utility, or defensive ability. This makes the best strategy to stay in central or elevated positions on the map and use the full cast arrow to hit all enemies from a massive range. I noticed that, in 90% of cases, it results in a one-hit kill, and sometimes it leaves enemies with 1 HP, which is still easy to finish off by simply throwing a fireball after the arrow shot.
+
+
+
+Suggestions:
+As an indie developer myself, I understand how challenging it can be to create a successful game. To stand out, your game needs unique mechanics, engaging gameplay, and differentiation from the competition. Here are some ideas to make the game more enjoyable:
+New Spells:
+Long-range projectile stun instead of the current AoE stun.
+Spells like mass sleep or polymorph, turning enemies into animals (e.g., sheep or frogs) for 2-3 seconds or until damaged.
+A spell that spawns a temporary wall in front of the player to block enemy projectiles.
+A stealth ability that makes the player invisible for 4-5 seconds or until they use another spell.
+A self-heal spell.
+A bounce projectile spell that ricochets off walls and floors.
+A damage-reduction spell for a short duration, at the cost of reduced mana regeneration.
+A silence spell that disables enemies’ ability to cast spells within a specific area.
+A spell that functions as timed grenade projectiles is always useful, especially in a PvP game, because you can use it to farm AoE kills or strategically throw it in an area to prevent enemies from going there.
+More utility-based spells, such as movement, dashes, speed buffs, or teleportation, would be a great addition to complement the damage and CC effects.
+New Game Modes:
+Maps inspired by Overwatch.
+Classic game modes like:
+Capture the Flag: Spawn a flag in the center of the map, and each team must return it to their base.
+Elimination: 5v5 rounds where the team that eliminates the opposing players first wins.
+Battle Royale: A mode where the last player standing wins.
+Progression System:
+To keep players engaged, introduce achievements or a simple loot-and-shoot system.
+Players could earn crystals, which could act as prerequisites for certain spells or grant stat boosts. Winners could claim these crystals from opponents, adding an element of progression and customization.
+Ranking System:
+Add an ELO-based ranking system to foster competitive play. Higher-skilled players could face off against each other, making matches more intense and encouraging players to climb the leaderboard.
+1v1 Mode:
+Introduce a 1v1 mode for duels, which could be great for premade teammates who want to challenge each other and help grow the player base.
+Spell Customization:
+Allow spell modifiers (e.g., faster cast times at the cost of lower damage). This would open up endless possibilities for synergy between teammates and create unexpected combos during matches.
+Specialized Wizards:
+Create unique mage classes with specialized abilities to further diversify gameplay.
+
+I hope this feedback helps you refine and improve your game! It has a lot of potential. Keep up the great work!

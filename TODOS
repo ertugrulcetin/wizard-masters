@@ -1,0 +1,122 @@
+- Lightning beam doesn't do much damage, and almost instantly depletes the mana/stamina bar
+- Also, Login does nothing for me?
+- Sentyr sourcemap
+- Boosters CSS no scroll in small view
+- Add background music to gameplay, battle like music
+- Leaderboard does not work correctly
+
+- Add Gauntlets
+- Show highest striked player between map changes
+- Change team (Team deathmatch)
+- Cast sorceries where the crosshair is not when it pressed, user feedback
+- Add Tutorial
+- Give coins when victory
+- Give coins when assist
+- Update skill info page
+- (Join queue issue?) Sometimes player can't get in the game, even though there is no Click to play, character and screen locks like unfocus
+- Light burst not visible after the change
+- When new game start with new map, potions placements are wrong
+- Move particles to GPU
+- Light staff does not work
+- Daily rewards
+- The mouse sensitivity is outside the window (small screens I guess)
+- Enemy HP not shown correctly after new match, HP is 0
+- Collectable text issue (when I die due to fall, the offset box position stays there)
+- There are 23 Light burst particle - check pooling
+- When all other team members quit, other team members can't play due to no enemies present
+- Update last activity time when user does something in the UI, e.g. watching Ads
+- Add initial game modes: Free for all, team for all
+- Cooldown text alignment issue, there is padding on the top
+- Portal rune?
+- Pet system
+- Main theme music starts when the match is over, do we want this?
+- After some time mana re-gen on air could activated, by default is could be OFF
+- Day/night cycle in maps - sometimes fog like in narrow one
+- Fix leftover state of add-requested-room-id, block this fn when player joins a room before
+- Clan system
+- Primary attacks can have Ultis - Or Ulti selection separately
+- Shield system, player can equip shield left/right hand during battle, that should block one element
+- Lower the ice arrow range
+
+DONE
+- Rock is way overpowered; high damage, mid range, no aim, AoE, hits through walls
+- Invert mouse Y axis
+----------------------------------------------------
+- Add new server locations
+- Add initial booster, damage, defense, stamina regen to new users
+- Show expired boosters in the main menu
+- Add icon next to usernames - mega booster users - like a light?
+- [Reward]: Cooldown reduce +%20
+- [Reward]: Stamina regen booster +%20
+- [Reward]: Coin booster 2X
+- [Reward]: Health regen booster +%50
+- [Reward]: Defense booster +%20
+- [Reward]: Damage booster +%10
+- Create room panel
+- Add 2 new maps to the system
+- Change send-super-nova etc. timeout - reduce it - it's hard to hit enemies
+- Check Leaderboard, verify it works correctly
+- Ice arrow wall hack due to mesh selection, need to use collision ray cast
+----------------------------------------------------
+- Add deathmatch mode
+- Add Ads to pages; Shop, Leaderboard
+- Light staff does not work
+- Warning other players for incoming sorceries, so they can have chance to escape
+- Add Login/Sign up button
+- Add Leader board
+- Add Toxic element
+- In shop panel, other players are visible
+- When in Shop panel, need to disable sounds of current players, maybe disconnect network?
+----------------------------------------------------
+- Added Skin system
+- Position init player capsule so it wont fall
+- Next game in N seconds text overlaps in small CG screen
+- Fix missing Loading text when second assets loading phase
+- Dust when landing does not work with speed lines effect
+- update Ruins respawn point, inc Y's due to collision issue
+----------------------------------------------------
+- Added 2 new maps
+- Disable Crisp chat
+- When click Exit Round = it should run things in End Game - Resource duplication may occur! Vice versa
+- When aiming ice arrow and die instantly, when respawning char casts ice arrow - leftover state
+- Ice arrow goes through walls
+- Add privacy term to the site
+- Add placeholder box for banner ad - for adblock users
+- team material is buggy, it creates new material after each death, also does not clear when game ends for other players
+- Mana regen slows when on air
+- Increase dash cooldown
+- Better dash movement
+----------------------------------------------------
+- Chrome Adblocker detection not working
+- Game sound will still be ON while the midgame ad is playing
+----------------------------------------------------
+- Add sound effect for other run animations
+- Change stun/root text of light and freeze sorceries, move to html
+- Ice arrow is over power
+- Team member username big scaling issue
+- Slow the player when aiming ice arrow
+- Lightning staff damage texts too many and blocks enemy
+- Wind and lightning have weak damage
+- Victory and defeat text did not show up
+- Send Light staff data from backend to client in chunks
+- Lightning staff halts when press ESC
+- Add main theme music when game is loaded
+- Can't attack enemy if he is inside the wind tornado
+- Fix lightning strike area damage (when enemy is on air)
+- Killed by X long name issue
+- Add Match mode text
+- Decrease the default global music volume to 0.5
+- Cant use Space in Crisp chat input
+- Show who killed who for 5 secs
+- Long usernames css issue
+- Who killed who section too big for small screens
+----------------------------------------------------
+- Banner ads
+- Auto room creation if the traffic is high
+- Ads
+- Menu
+- Jump cancelling sorceries
+- Invite friends, currently supports CrazyGames only
+- Add join discord button
+- Chrome OS UI issue
+- Check range of light strike spell

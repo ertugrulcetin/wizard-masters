@@ -1,0 +1,4 @@
+A shooter is a shooter, you know? it's all tiny bits of fine tuning to improve feel, like tweaking movement to be faster and seeing if that help, and undo if not, etc.
+
+here's a freebie based on 60 seconds of play tho: give the player an option (tutorial?) to play a level solo just to get a handle on what the controls are and how the spells work without getting killed constantly. Since the spells in particular are a different dynamic than standard FPSes it's nice to get to experiment without distraction.
+

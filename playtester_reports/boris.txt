@@ -1,0 +1,31 @@
+Things that I would try to add:
+Some sort of a skill tree(I think that that would add some sort of fun and versatility)
+Upgrades like strength, speed, health
+Shop system which includes: coins and cosmetics
+
+
+SPELS:
+fireball - very balanced with on impact explosion and decent damage
+ice arrow - it’s strongest weapon in the game mainly because of its holding passive ability. It can one shot an enemy so damage should be reduced.
+air - very weak ability, low damage. Only good thing is it's passive to launch you upwards.
+lightning - very good ability with low damage but it has the best fire rate in the game. Very good combo with an ice arrow because you can just run down an enemy if you don't one shot them with the bow.
+
+SORCERIES:
+fireball - great power, it is balanced by its range but it has great destructive power, you can create very good combos with this power
+ice - very good power, carried by its freeze effect. You can kill everyone if you hit this power
+air - decent ability but I don’t think that its useful at all. It deals very low damage and it roots enemies which means that they can still kill you
+lightning - Its very good, 3 seconds of stun is very important, it guarantees you a kill.
+
+HUD:
+It looks very minimal but it gets job done
+Only thing that I would change is the mana bar, I would place it above or under the health bar.
+
+CONTROLS:
+they are easy to understand considering that your main audience will be younger people
+
+GRAPHICS:
+They perfectly match theme of the game and it looks very good
+The bad thing is that I think the game optimization is not good because sometimes when there is a big fight going on FPS drops to 80. I think that people who would maybe like to play this game don’t have a good PC. Just to be clear it works well for me and I have a ryzen 5 5600x and rx 6700xt combo.
+visual effects are very good, probably that is why FPS drops.
+I think that you should make the damage done indicator smaller, because if you shoot someone with lightning you won’t even see who you are shooting.
+

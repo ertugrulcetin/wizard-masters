@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Wizard Masters",
+  "short_name": "Wizard Masters",
+  "description": "Multiplayer spell-based third-person shooter game set in a medieval theme.",
+  "lang": "en",
+  "start_url": "/",
+  "background_color": "#0084e2",
+  "theme_color": "#0084e2",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "type": "image/png",
+      "src": "/img/icon512.png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "type": "image/png",
+      "sizes": "1920x1080",
+      "src": "/img/screenshots/loading-screen.png"
+    }
+  ]
+}

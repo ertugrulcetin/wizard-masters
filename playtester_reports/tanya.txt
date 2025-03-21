@@ -1,0 +1,42 @@
+Wizard Masters Playtest
+Before playtesting Wizard Masters, I decided to try Spellbreak as it's free to download on itch.io as I wanted to compare the mechanics to Wizard Masters.
+Overall you've done a great job recreating the mechanics, the Spellbreak inspiration is very evident and I actually like the implementation and flow of your version better!
+I enjoyed flash games very much when I was a kid and I can definitely see kids today enjoying a game like this as it is very fast-paced and action-packed.
+
+Ideas For Improvement
+Especially when zapping people, the numbers that appear on screen are too big and you can't really see what's happening behind them. Might be better to use a different, thinner font, and have the sprites be a bit smaller
+The User Interface could be improved with better text scaling and some more animations - I like how you've animated the Discord button! Similar animations across the UI screens would make it more fun to interact with. They could be discreet animations like buttons sliding/fading/popping in and out of view.
+The controls and spells are explained pretty well and, although it is very straightforward, the gameplay should be explained as well! Maybe some subtle text on screen for new player (with the option to turn tutorial off, of course!) as things like MP (magic points?) isn't explained at all.
+Both sound and VFX when you get double/triple/quadruple/penta-kill - this will feel very satisfying for the player and get them into a rhythm of kills (League of Legends and Valorant both do a good job hyping up during a streaks of kills).
+Same goes for aces, team kills, players who are dominating, etc.
+Variety in sound effects - there are many sound effects that are the same and play over and over again. A cheap way to solve this would be to make 2-3 variations of each sound that all have a different pitch from each other and play a random one from the variety each time that sound is needed! This would be a good way to make 'kill-streak' style sound effects and for things like arrow firing, hits, etc. the sounds can vary in how muffled or strong they sound.
+Additional abilities would make the game even more fun - something similar to Spellbreak where you have a power to see enemies through walls! A different take on this would be making them make a distinct sound so teammates know where they are.
+I'm still not too sure what the blue MP potions you pick up are. If it is magic points, these can be helpful but oftentimes MP regens quite quickly. It might be better if the player could store these and use them when they need to attack urgently but MP is low.
+The fact that you can fall through the map is funny but annoying! I'm assuming it's allowed because of the wind power - being able to knock people off the map is quite satisfying! Maybe have a bottomless pit or deep ocean to communicate to players what would happen if they fell in.
+
+The frost arrow power is quite overpowered! I gather it's supposed to be the 'sniper' of the game and it is satisfying to use, my issue with it is that I can walk pretty fast while aiming it and can practically run around the map fragging players with a one-shot loaded at all times - might need some balancing as some players will abuse this. I recommend reducing the player character speed significantly while they're aiming the bow.
+Flying, dashing and moving around is very fun! Refining existing VFX and adding new ones (accents like a VFX trail behind the player when they dash or fly up, more animations for characters such as backflips, hard landings, etc.) might make moving around even more fun - something similar to the visual effect you get on screen when falling for a long time, only more dynamic.
+Having stuff like emotes or catch phrases for the characters on button press would make it more fun for friends to play together and for people to express themselves
+Custom player character items such as different hats or bows/bow decorations to choose from
+
+Ideas For New Mechanics
+A power that slows enemies down, either by a puddle on the floor or a smoke cloud, that make the enemy move slower, making them more easily targetable for the player
+Unsafe surfaces and spaces that deal damage to the player if they land/walk/fly through them (these don't necessarily need to be placed by an enemy, it could just be environment!)
+Defence structure building! Doesn't need to be anything complex like Fortnite, even simple walls would go far to create more cover and angles
+A 'poison' style power would be pretty cool, similar to the toxic cloud you can cast in Spellbreak that you can blow up with fire - something like this for the game would be quite fun!
+
+The powers, Ranked!
+Frost - the best when it comes to dealing damage! Frost arrow is a one-shot if you're accurate. The ultimate of this power stuns the enemy which is also very handy to ambush
+Lightning - the lightning bolt does a good rate of damage and is very strong, the ultimate is also good although it doesn't stun as well as the Frost ultimate
+Fire - fire is decent but somewhat underpowered, you really need to account for the trajectory of your fire balls and they feel awkward to throw sometimes, the fire cloud ultimate is fun to use but, as it is easily evadable and its range is small, it does too little damage. I'm assuming this might be because it's a secondary power to support either of the first ones
+
+Wind - knocking people off platforms and edges is definitely fun! This is a secondary power for sure. The tornado ultimate is awesome - trapping players in there and zapping them or shooting them is a very fun way to eliminate!
+Bugs I Encountered
+VFX staying on screen after death (before respawning)
+At one point I 'highlighted' all the game buttons and text and I had to reload the page (happens around 18:46 in Session 3), might be my specific browser though (Opera GX).
+Respawn locations sometimes seem illogical - I've spawned next to an enemy to instantly kill them, the same has happened to me the other way around
+A couple of audio bugs - sounds cutting out quite harshly, etc.
+Browser Compatibility
+Opera GX - played on, performed well, slight frame drops/slow downs Google Chrome - performed excellently.
+Microsoft Edge - performed excellently.
+Firefox - mouse input feels weird on Firefox, not very responsive. Frame rate was the worst out of all the browsers, it seemed buggier on it as well.
