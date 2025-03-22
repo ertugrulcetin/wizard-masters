@@ -6,6 +6,8 @@
 
 Wizard Masters is a multiplayer battle arena game where players control wizards with different elemental powers. Compete against other players in fast-paced magical combat, mastering spells and tactics to become the ultimate wizard.
 
+**Here is my blog post about the journey:** [https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp](https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp)
+
 ## Project Structure
 
 The project consists of two main components:
