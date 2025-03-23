@@ -60,7 +60,7 @@ Electric Ability 1
 
 Dealing precise damage at long ranges
 
--One of the few abilities in the game deal long range damage and unlike the ice ability it is pretty usefull at all the ranges
+-One of the few abilities in the game deal long range damage and unlike the ice ability it is pretty useful at all the ranges
 -The abilties damage output is really high a player with good aim can easily win a duel with just one abilty while dashing around
 
 The overall ability is really fun but that high of a damage output combined with the range might make it less fun to play against
